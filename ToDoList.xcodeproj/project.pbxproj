@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		18EC266522BD60CF00F1E43C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EC266422BD60CF00F1E43C /* AppDelegate.swift */; };
-		18EC266722BD60CF00F1E43C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EC266622BD60CF00F1E43C /* ViewController.swift */; };
 		18EC266A22BD60CF00F1E43C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18EC266822BD60CF00F1E43C /* Main.storyboard */; };
 		18EC266D22BD60CF00F1E43C /* ToDoList.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 18EC266B22BD60CF00F1E43C /* ToDoList.xcdatamodeld */; };
 		18EC266F22BD60D000F1E43C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18EC266E22BD60D000F1E43C /* Assets.xcassets */; };
@@ -37,7 +36,6 @@
 /* Begin PBXFileReference section */
 		18EC266122BD60CF00F1E43C /* ToDoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18EC266422BD60CF00F1E43C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		18EC266622BD60CF00F1E43C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		18EC266922BD60CF00F1E43C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		18EC266C22BD60CF00F1E43C /* ToDoList.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ToDoList.xcdatamodel; sourceTree = "<group>"; };
 		18EC266E22BD60D000F1E43C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -100,7 +98,6 @@
 			isa = PBXGroup;
 			children = (
 				18EC266422BD60CF00F1E43C /* AppDelegate.swift */,
-				18EC266622BD60CF00F1E43C /* ViewController.swift */,
 				18EC266822BD60CF00F1E43C /* Main.storyboard */,
 				18EC266E22BD60D000F1E43C /* Assets.xcassets */,
 				18EC267022BD60D000F1E43C /* LaunchScreen.storyboard */,
@@ -259,7 +256,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				18EC266722BD60CF00F1E43C /* ViewController.swift in Sources */,
 				18EC266D22BD60CF00F1E43C /* ToDoList.xcdatamodeld in Sources */,
 				18EC266522BD60CF00F1E43C /* AppDelegate.swift in Sources */,
 			);
